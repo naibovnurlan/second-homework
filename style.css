@@ -54,3 +54,9 @@ h2{
     padding:20px 0px 0px 20px;
     line-height: 30px;
 }
+.ftr{
+    text-align: center;
+    margin-top: 80px;
+    font-size: 10px;
+    color: rgb(152, 101, 37);
+}
