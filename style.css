@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.all{
+    margin: 0px auto;
+    background-color: goldenrod;
+    width: 700px;
+    min-height: 500px;
+    border: 1px solid;
+}
+.head{
+    background-color: brown;
+    min-height: 60px;
+}
+h1  {
+    font-size: 40px;
+    color:burlywood;
+    padding: 20px 20px 0px  ;
+}
+h6{
+    font-size: 15px;
+    color:burlywood;
+    padding-left: 55px;
+}
