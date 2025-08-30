@@ -21,11 +21,12 @@ h1  {
     font-size: 40px;
     color:burlywood;
     padding: 20px 20px 0px  ;
+    margin-left: 15px;
 }
 h6{
     font-size: 15px;
     color:rgb(219, 213, 205);
-    padding-left: 55px;
+    padding-left: 70px;
     margin-bottom: 20px;
 }
 nav{
@@ -36,10 +37,16 @@ nav{
 ul li{
     list-style: none;
     float: left;
-    margin-right: 50px;
+    margin-right: 25px;
+    margin-left: 25px;
     font-size: 20px;
 }
 a{
     text-decoration: none;
     color:rgb(219, 213, 205) ;
+}
+h2{
+    margin: 20px;
+    color: brown;
+    font-size: 30px;
 }
