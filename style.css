@@ -46,7 +46,11 @@ a{
     color:rgb(219, 213, 205) ;
 }
 h2{
-    margin: 20px;
+    margin: 20px 0px 0px 20px;
     color: brown;
     font-size: 30px;
+}
+.art{
+    padding:20px 0px 0px 20px;
+    line-height: 30px;
 }
